@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1549943749 source:d:\class\sophomore2\programming 2\winter vacation hw\moochw6a\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

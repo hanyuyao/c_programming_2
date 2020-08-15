@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1559577447 source:d:\class\sophomore2\programming 2\c++ usage\stl\heap\main.cpp
+	<iostream>
+	<algorithm>
+

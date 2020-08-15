@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1557766512 source:d:\class\sophomore2\programming 2\hw\midterm practice 2\11410\main.cpp
+	<cstddef>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	<string>
+	"function.h"
+	"NTHUOJLock"
+
+1557560077 d:\class\sophomore2\programming 2\hw\midterm practice 2\11410\function.h
+	<cstddef>
+	<iosfwd>
+
+1557810713 source:d:\class\sophomore2\programming 2\hw\midterm practice 2\11410\function.cpp
+	<iostream>
+	"function.h"
+

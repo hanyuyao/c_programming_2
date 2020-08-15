@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1560501680 source:d:\class\sophomore2\programming 2\hw\final practice\11856\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<stack>
+

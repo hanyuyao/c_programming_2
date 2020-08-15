@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1549122831 source:d:\class\sophomore2\programming 2\winter vacation hw\8 queens\main.cpp
+	<iostream>
+	<string.h>
+	<ctime>
+

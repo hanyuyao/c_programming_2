@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1556558954 source:d:\class\sophomore2\programming 2\hw\hw6\11920\main.cpp
+	"function.h"
+	<iostream>
+
+1556558961 d:\class\sophomore2\programming 2\hw\hw6\11920\function.h
+	<iostream>
+
+1556733677 source:d:\class\sophomore2\programming 2\hw\hw6\11920\function.cpp
+	"function.h"
+	<iostream>
+

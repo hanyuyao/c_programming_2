@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1559062391 source:d:\class\sophomore2\programming 2\c++ usage\stl\vector\main.cpp
+	<iostream>
+	<vector>
+

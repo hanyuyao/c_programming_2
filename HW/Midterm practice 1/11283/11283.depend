@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1553536710 source:d:\class\sophomore2\programming 2\hw\midterm practice 1\11283\function.c
+	<stdio.h>
+	<stdlib.h>
+	"function.h"
+
+1553535984 d:\class\sophomore2\programming 2\hw\midterm practice 1\11283\function.h
+
+1553535976 source:d:\class\sophomore2\programming 2\hw\midterm practice 1\11283\main.c
+	<stdio.h>
+	<stdlib.h>
+	"function.h"
+

@@ -1,0 +1,11 @@
+getToken：主要吃輸入的函數，fgetc就有getchar的功能，派定型態和數值也在這裡。
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+expr，term，factor，makeNode：主要建樹的函數，而樹的頭存在statement 裡的 retp裡。
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+statement：主要運行的函數，許多重新初始化要寫在這裡。
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+evaluateTree：幾乎所有的組語輸出都要打在這裡，case INT 或 ID 就輸出MOV，case MULDIV底下有+-*/，組語的ADD，SUB，DIV，MUL就是打在這裡。
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+小提醒：他建樹的負數是記成 0 - 2，如果輸入-2建樹會建成，減號那個Node的left Node是記成0，right Node是記成2，如果要改成直接記-2的話，getToken(改成吃-2)和factor(不要建0那個Node)要改。
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+小提醒：要小心符號的問題，有可能有x = -y/2者種測資，如果上面改成直接吃負數的話，那-y也要考慮。

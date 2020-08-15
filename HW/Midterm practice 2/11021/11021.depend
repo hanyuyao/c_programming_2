@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1557330107 source:d:\class\sophomore2\programming 2\hw\hw7\11021\main.cpp
+	<iostream>
+	"function.h"
+
+1557330120 d:\class\sophomore2\programming 2\hw\hw7\11021\function.h
+	<iostream>
+	<string>
+
+1557504970 source:d:\class\sophomore2\programming 2\hw\hw7\11021\function.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<string>
+	"function.h"
+
+1557330107 source:d:\class\sophomore2\programming 2\hw\midterm practice 2\11021\main.cpp
+	<iostream>
+	"function.h"
+
+1557330120 d:\class\sophomore2\programming 2\hw\midterm practice 2\11021\function.h
+	<iostream>
+	<string>
+
+1557762754 source:d:\class\sophomore2\programming 2\hw\midterm practice 2\11021\function.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<string>
+	"function.h"
+

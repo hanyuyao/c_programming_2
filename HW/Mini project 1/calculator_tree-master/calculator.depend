@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1554907063 source:d:\class\sophomore2\programming 2\hw\mini project 1\calculator_tree-master\lex.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"lex.h"
+
+1554907072 d:\class\sophomore2\programming 2\hw\mini project 1\calculator_tree-master\lex.h
+
+1555315988 source:d:\class\sophomore2\programming 2\hw\mini project 1\calculator_tree-master\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<stdbool.h>
+
