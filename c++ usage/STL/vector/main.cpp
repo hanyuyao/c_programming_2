@@ -13,7 +13,7 @@ int main()
     vector<string> vec2(5, "allen");        //capacity=5, all elements are "allen"
     vector<float> vec3(5);                  //capacity=5
     vector<float> vec4(vec3);               //copy vec3
-    vector<int> vec5 = {1, 2, 3, 4, 5};     //direct initialization
+    vector<int> vec5{1, 2, 3, 4, 5};        //direct initialization
     int arr[] = {3, 1, 4, 2, 5};
     vector<int> vec6(arr, arr+5);           // vec = [3, 1, 4, 2, 5]
     vector<int> vec7(vec6.begin(), vec6.begin()+3);     //vec = [3, 1, 4]
